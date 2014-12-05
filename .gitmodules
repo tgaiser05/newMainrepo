@@ -1,0 +1,3 @@
+[submodule "newMainproject/ext"]
+	path = newMainproject/ext
+	url = https://github.com/tgaiser05/Subrepo.git
